@@ -1,0 +1,12 @@
+Item ID,Module,Sub-module,Issue Title,Type,Priority,Attachment
+I_ID_1,Ticket management,Ticket forwarding,"After resolving a ticket by someone from the assignee's department, status gets resolved, but it still requires ""resolve"" by the assignee. Need to change the status for assignee as well. It should not require an assignee's action. After forwarding a ticket by the assignee's department it doesn't directly move to the person to whom the ticket has been forwarded. After forwarding by assignee only, the ticket gets forwarded. After resolving by anyone, ticket status should be resolved for everyone and need to show the log.",Bug,Critical,
+I_ID_2,Ticket management,Ticket forwarding,"After forwarding ticket to any user by assignee or assignee's department, the ticket should be visible and actionable to all the user's from that user's department (L2 forwarding)",Improvement,Critical,
+I_ID_3,Ticket management,Ticket Status,"After ticket forwarding, status is still showing ""opened"", it should show in-progress. After commenting on a ticket, status gets changed to in-progress which is fine.",Bug,High,
+I_ID_4,Ticket management,User Search,"While forwarding ticket, only 10 person is showing in user's search list",Bug,Critical,
+I_ID_5,Ticket management,change priority,Assignee must not have the priority shifting option in three dot,Bug,Critical,
+B_ID_6,,,,,,
+I_ID_6,Communication,Mail Communication,email should also be searched from replied mail,Bug,Critical,
+I_ID_7,Communication,Message,"
+Text box is showing in one line while typing multiple lines for a single message. It should show in multiple lines according to text box size increasing. Also line breaks are not visible.",Improvement,Critical,
+I_ID_8,Search,All search,Alphabetical shortcode search not working for feature and product,1st phase due,Critical,
+I_ID_9,User Management,,NEED single user - multiple company assigning option,Requirement,High,
